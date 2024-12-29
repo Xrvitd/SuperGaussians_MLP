@@ -1,4 +1,4 @@
-name: surfel_splatting
+name: SuperGaussians
 channels:
   - pytorch
   - nvidia
